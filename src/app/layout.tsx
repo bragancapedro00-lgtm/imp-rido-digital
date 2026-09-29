@@ -21,33 +21,35 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Império Digital • Grupo VIP Exclusivo de Estratégias & Networking",
+  title: "Achadinhos VIP • Promoções Shopee & Mercado Livre no WhatsApp",
   description:
-    "Junte-se a mais de 4.800 empreendedores e profissionais. Alertas em primeira mão, networking de alto nível, análises práticas e estratégias validadas. Acesso 100% gratuito por tempo limitado.",
+    "Acesse o grupo agora e receba as melhores promoções de achadinhos da Shopee e Mercado Livre: itens de casa, eletrodomésticos, área fitness e roupas. 100% gratuito!",
   keywords: [
-    "grupo vip",
-    "networking digital",
-    "estratégias de tráfego",
-    "marketing digital",
-    "comunidade empreendedores",
-    "whatsapp vip",
-    "negócios digitais",
+    "achadinhos shopee",
+    "promocoes mercado livre",
+    "achadinhos whatsapp",
+    "descontos e cupons",
+    "itens de casa barato",
+    "eletrodomésticos em promoção",
+    "roupas fitness shopee",
+    "moda barata mercado livre",
+    "grupo vip de ofertas",
   ],
-  authors: [{ name: "Império Digital" }],
-  creator: "Império Digital",
+  authors: [{ name: "Achadinhos VIP" }],
+  creator: "Achadinhos VIP",
   openGraph: {
     type: "website",
     locale: "pt_BR",
     url: "https://imperiodigital.com",
-    title: "Império Digital • Grupo VIP Exclusivo",
+    title: "Achadinhos VIP • Shopee & Mercado Livre",
     description:
-      "Acesso gratuito ao grupo exclusivo de estratégias de alto faturamento e networking. Restam poucas vagas!",
-    siteName: "Império Digital",
+      "Acesse o grupo agora e receba os melhores achadinhos e cupons da Shopee e Mercado Livre. Itens de casa, eletro, fitness e roupas!",
+    siteName: "Achadinhos VIP",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Império Digital • Grupo VIP Exclusivo",
-    description: "Acesso gratuito ao grupo fechado de estratégias digitais e networking de alto nível.",
+    title: "Achadinhos VIP • Shopee & Mercado Livre",
+    description: "Promoções, bugs de preço e cupons da Shopee e Mercado Livre no WhatsApp!",
   },
   robots: {
     index: true,

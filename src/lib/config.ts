@@ -6,13 +6,13 @@
  */
 
 export const siteConfig = {
-  name: process.env.NEXT_PUBLIC_SITE_NAME || "Império Digital - Grupo VIP",
-  description: "Acesso exclusivo ao grupo fechado de estratégias digitais, networking de alto nível e oportunidades validadas.",
-  groupInviteUrl: process.env.NEXT_PUBLIC_GROUP_INVITE_URL || "https://chat.whatsapp.com/exemplo-link-do-grupo",
+  name: process.env.NEXT_PUBLIC_SITE_NAME || "Achadinhos VIP • Shopee & Mercado Livre",
+  description: "Acesse o grupo gratuito e receba em primeira mão as melhores promoções e achadinhos da Shopee e Mercado Livre: itens de casa, eletrodomésticos, fitness e roupas.",
+  groupInviteUrl: process.env.NEXT_PUBLIC_GROUP_INVITE_URL || "https://chat.whatsapp.com/GFVWkCX7Gxy1yNMvrNMthA",
   metaPixelId: process.env.NEXT_PUBLIC_META_PIXEL_ID || "",
-  membersCount: "4.890+",
-  satisfactionRate: "99.4%",
-  spotsRemaining: 14,
+  membersCount: "12.800+",
+  satisfactionRate: "99.7%",
+  spotsRemaining: 23,
 };
 
 /**
